@@ -1,0 +1,6 @@
+DOWNLOADS_FOLDER = 'downloads'
+EXTRACTED_FOLDER = 'extracted'
+SITE_ADDRESS = 'https://www.cbs.gov.il/he/Pages/%d7%99%d7%91%d7%95%d7%90-%d7%95%d7%99%d7%a6%d7%95%d7%90.aspx'
+IMPORT_OPTION = 'יבוא סחורות'
+EXPORT_OPTION = 'יצוא סחורות'
+MONGO_ADDR = 'mongodb://localhost:27017/'
